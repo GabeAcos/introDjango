@@ -1,1 +1,1 @@
-django>=4.2,<5.0        # https://github.com/django/django
+django==5.1.1       # https://github.com/django/django
