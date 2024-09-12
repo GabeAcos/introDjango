@@ -2,8 +2,8 @@ from django.contrib import admin
 
 import visits
 # Register your models here.
-from .models import Visits
+from .models import Visit
 
-@admin.register(Visits)
+@admin.register(Visit)
 class VisitsAdmin(admin.ModelAdmin):
     pass
